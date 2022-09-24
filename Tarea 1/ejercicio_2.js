@@ -10,4 +10,5 @@ const esPar = (num) => {;
     }
 }
 
-esPar(238);
+esPar(238);  //par
+esPar(3); //impar
